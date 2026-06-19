@@ -28,16 +28,16 @@ layout responsive.
 
 ## Project Structure
 ```
-Portfolio-Website/
+Portfolio-Website_week2/
 │
 ├── index.html
 ├── style.css
 ├── README.md
-├── images/
-│   └── profile.jpg
-└── screenshots/
-    ├── about-skills.png
-    └── contact-footer.png
+├── ARATHI S M.pdf
+├── about-skills.png
+├── contact-footer.png
+└── images/
+    └── profile.jpg
 ```
 
 ## CSS Concepts Used
@@ -62,11 +62,14 @@ Portfolio-Website/
 ## Screenshots
 Header, navigation, and About Me section:
 
-![About and Skills section](screenshots/about-skills.png)
+![About and Skills section](about-skills.png)
 
 Skills grid, Contact form, and footer:
 
-![Contact section](screenshots/contact-footer.png)
+![Contact section](contact-footer.png)
+
+## Documentation
+Full project documentation (overview, setup, code structure, technical details, testing evidence) is available in `ARATHI S M.pdf`.
 
 ## Author
 Arathi S M
